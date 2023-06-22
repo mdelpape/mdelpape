@@ -4,7 +4,7 @@
 
 
 
-### I'm a full stack engineer who has a passion for gaming and participating in atheltic activities.
+### I'm a full stack engineer who has a passion for gaming and being athletic. 
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
