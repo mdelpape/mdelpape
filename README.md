@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Michael!
 
 <img src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="800px">
 
