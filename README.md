@@ -1,7 +1,6 @@
 ### Hi there 👋
-![ezgif-3-605fa06cab](https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c)
 
-<img src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="700px">
+<img src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="800px">
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
