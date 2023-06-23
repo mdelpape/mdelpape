@@ -6,11 +6,11 @@
 
 ### I'm a full stack engineer who has a passion for gaming and picking up new hobbies. 
 
-####👋 Hi, I’m @mdelpape
-####👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
-####🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
-####💞️ I'm looking to work on projects that lots of people will find use for. 
-####📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
+###👋 Hi, I’m @mdelpape
+###👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
+###🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
+###💞️ I'm looking to work on projects that lots of people will find use for. 
+###📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
