@@ -6,7 +6,6 @@
 
 ### I'm a full stack engineer who has a passion for gaming and picking up new hobbies. 
 
-#### 👋 Hi, I’m @mdelpape
 #### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
 #### 💞️ I'm looking to work on projects that lots of people will find use for. 
