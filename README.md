@@ -5,6 +5,12 @@
 
 
 ### I'm a full stack engineer who has a passion for gaming and picking up new hobbies. 
+
+👋 Hi, I’m @Jacqueline-Kelly
+👀 I’m interested in data engineering and full-stack development
+🌱 I’m currently learning JQuery & firebase
+💞️ I’m looking to collaborate on projects that focus on communicating data
+📫 How to reach me ... best by email : jacqueline.kelly.2016@gmail.com, also on LinkedIn
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
