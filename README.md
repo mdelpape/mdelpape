@@ -10,7 +10,7 @@
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
 #### 💞️ I'm looking to work on projects that lots of people will find use for. 
 #### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
-JavaScriptPythonC++
+
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
