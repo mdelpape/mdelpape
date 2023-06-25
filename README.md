@@ -1,6 +1,6 @@
 ## Full stack developer with emphasis on front end and a bachelors in Civil Engineering
 
-<img align = "right" src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="800px">
+<img align = "right" src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="500px">
 
 ### I have experience with...
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
