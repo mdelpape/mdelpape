@@ -4,7 +4,7 @@
 
 
 
-### I'm a full stack engineer who has a passion for gaming and picking up new hobbies. 
+### I'm a full stack engineer who has a passion for solving engineering problems and picking up new hobbies. 
 
 #### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
