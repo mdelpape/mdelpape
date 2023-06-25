@@ -11,6 +11,8 @@
 #### 💞️ I'm looking to work on projects that lots of people find usefull. 
 #### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
 
+### I have experience with...
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
