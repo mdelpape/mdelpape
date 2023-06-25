@@ -8,7 +8,7 @@
 
 #### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
-#### 💞️ I'm looking to work on projects that lots of people will find use for. 
+#### 💞️ I'm looking to work on projects that lots of people find usefull. 
 #### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
 
 <!--
