@@ -2,12 +2,6 @@
 
 <img align = "right" src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="800px">
 
-
-#### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
-#### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
-#### 💞️ I'm looking to work on projects that lots of people find usefull. 
-#### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
-
 ### I have experience with...
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -21,6 +15,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+#### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
+#### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
+#### 💞️ I'm looking to work on projects that lots of people find usefull. 
+#### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
+
 
 <!--
 **mdelpape/mdelpape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
