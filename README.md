@@ -3,9 +3,6 @@
 <img align = "right" src="https://github.com/mdelpape/mdelpape/assets/111204640/6ca8b162-c87a-4061-b7d1-bf02666aef4c" alt="GIF" width="800px">
 
 
-
-### I'm a full stack engineer who has a passion for solving engineering problems and picking up new hobbies. 
-
 #### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
 #### 💞️ I'm looking to work on projects that lots of people find usefull. 
