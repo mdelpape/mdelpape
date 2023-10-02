@@ -20,7 +20,9 @@
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
 #### 💞️ I'm looking to work on projects with a healthy team environment with partners that push each other to be better.
 #### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
-#### Also please check out my portfolio website www.michaeldelpape.dev
+#### Also please check out my portfolio website and other site I've been working on with 3d rendering www.michaeldelpape.dev
+#### https://personal-website-update.vercel.app/   
+#### https://terra-gamma.vercel.app/
 
 
 
