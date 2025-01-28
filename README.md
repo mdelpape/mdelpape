@@ -16,7 +16,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### 👀 I'm interesting mostly in front end development but I'm trained in full stack applications. 
+#### 👀 I'm interested mostly in front end development but I'm trained in full stack applications. 
 #### 🌱 Currently I'm perfecting my skills with front end technologies like react native and tailwind. 
 #### 💞️ I'm looking to work on projects with a healthy team environment with partners that push each other to be better.
 #### 📫 How to reach me ... best by email : m4delpape@gmail.com, also on LinkedIn @ www.linkedin.com/in/delpapemichael/
